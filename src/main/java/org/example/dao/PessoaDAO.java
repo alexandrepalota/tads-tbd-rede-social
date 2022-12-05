@@ -186,6 +186,7 @@ public class PessoaDAO {
         return pessoas;
     }
 
+    // Método auxiliar. Usado apenas para limpar o banco antes de rodar a aplicação.
     public void limparBanco() {
         this.initDriver();
         try (Session session = driver.session()) {

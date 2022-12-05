@@ -9,6 +9,8 @@ public class Main {
     public static void main(String[] args) {
 
         PessoaDAO dao = new PessoaDAO();
+
+        // Método auxiliar. Usado apenas para limpar o banco antes de rodar a aplicação.
         dao.limparBanco();
 
         // Criando Pessoas
