@@ -62,5 +62,6 @@ public class Main {
         pessoas = dao.listarPessoas();
         pessoas.forEach(System.out::println);
 
+
     }
 }

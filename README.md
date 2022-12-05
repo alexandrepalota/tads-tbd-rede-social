@@ -1,5 +1,5 @@
 # TADS - Tópicos em Banco de Dados
-## Bando de dados Neo4J
+## Banco de dados Neo4J
 
 ## Executando a aplicação
 
